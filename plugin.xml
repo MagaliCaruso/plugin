@@ -21,6 +21,6 @@
             </feature>
         </config-file>
  
-        <source-file src="plugin/src/Calendar.java" target-dir="custom/plugin/calendar/calendar" />      
+        <source-file src="custom-plugin-calendar/src/Calendar.java" target-dir="custom-plugin-calendar/www/calendar" />      
      </platform>          
 </plugin>
