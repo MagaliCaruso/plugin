@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
  
 <plugin xmlns="http://www.phonegap.com/ns/plugins/1.0"
-           id="custom.plugin.calendar"
+           id="custom-plugin-calendar"
       version="0.1.0">
     <name>Calendar</name>
     <description>Sample PhoneGap Calendar Plugin</description>
@@ -21,6 +21,6 @@
             </feature>
         </config-file>
  
-        <source-file src="custom-plugin-calendar/src/Calendar.java" target-dir="custom-plugin-calendar/www/calendar" />      
+        <source-file src="src/Calendar.java" target-dir="custom-plugin-calendar/www/calendar" />      
      </platform>          
 </plugin>
